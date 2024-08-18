@@ -58,6 +58,30 @@ Voici une brève explication pour la configurer :
      ssh user@ip_address
      ```
 
+## Hiérarchie des répertoires
+La structure des répertoires d'un système Linux, également connue sous le nom de Filesystem Hierarchy Standard (FHS), est une structure arborescente définie qui permet d'éviter que les fichiers ne soient dispersés dans tout le système et de les organiser de manière logique et facile à parcourir.
+
+`/`: Root directory, the top level of the file system.<br>
+`/home`: User home directories.<br>
+`/bin`: Essential binary executables.<br>
+`/sbin`: System administration binaries.<br>
+`/etc`: Configuration files.<br>
+`/var`: Variable data (logs, spool files).<br>
+`/usr`: User programs and data.<br>
+`/lib`: Shared libraries.<br>
+`/tmp`: Temporary files.
+
+Explication rapide en vidéo: **[Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)** <br>
+Documentation FHS redhat: **[File System Hierarchy Standard (FHS)](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr)** <br>
+Documentation FHS ubuntu: **[Linux Filesystem Tree Overview](https://help.ubuntu.com/community/LinuxFilesystemTreeOverview)**
+
+<!-- ## Commandes de base sur ubuntu
+
+`id` est utilisée pour afficher les informations d'identité de l'utilisateur actuel. Elle fournit des détails sur les identifiants de l'utilisateur (UID), le groupe principal (GID), et les groupes auxquels l'utilisateur appartient.
+
+`sudo -i` : Ouvre un nouveau shell avec les privilèges root. On est invité à entrer notre mot de passe utilisateur pour confirmer l'action.
+Une fois dans ce shell, on peutexécuter des commandes avec les privilèges de ``root`` sans avoir à préfixer chaque commande avec sudo. -->
+
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
 
