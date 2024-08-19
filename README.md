@@ -60,6 +60,9 @@ Voici une brève explication pour la configurer :
 
 # Linux 🐧
 
+## Tuto Linux complet
+Drane académie de Lyon - Cédric Frayssinet :**[Tuto Gnu / Linux - Ubuntu ](https://drane.ac-lyon.fr/spip/IMG/scenari/ubuntuavance/co/Module_Avance.html)** <br>
+
 ## Hiérarchie des répertoires
 La structure des répertoires d'un système Linux, également connue sous le nom de Filesystem Hierarchy Standard (FHS), est une structure arborescente définie qui permet d'éviter que les fichiers ne soient dispersés dans tout le système et de les organiser de manière logique et facile à parcourir.
 
@@ -85,6 +88,11 @@ Les commandes Linux pour débutants: **[The Linux command line for beginners](ht
 ## Editeur de texte VI en console linux
 Commandes de base VI: **[Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)** <br>
 Utilisation de l'éditeur vi: **[Apprendre à utiliser VI](https://docs.oracle.com/cd/E19620-01/805-1608/6j1io9lha/index.html)** <br>
+
+## Les droits et propriétaires des fichiers
+Debian: **[Permissions du système de fichiers](https://www.debian.org/doc/manuals/debian-reference/ch01.fr.html#_filesystem_permissions)** <br>
+Wikipedia: **[Permissions UNIX](https://fr.wikipedia.org/wiki/Permissions_UNIX)** <br>
+Oracle: **[Droits d'accès aux fichiers et aux répertoires](https://docs.oracle.com/cd/E19620-01/805-1608/6j1io9lh0/index.html)** <br>
 
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
