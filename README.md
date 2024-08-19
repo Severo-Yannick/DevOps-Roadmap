@@ -58,6 +58,8 @@ Voici une brève explication pour la configurer :
      ssh user@ip_address
      ```
 
+# Linux 🐧
+
 ## Hiérarchie des répertoires
 La structure des répertoires d'un système Linux, également connue sous le nom de Filesystem Hierarchy Standard (FHS), est une structure arborescente définie qui permet d'éviter que les fichiers ne soient dispersés dans tout le système et de les organiser de manière logique et facile à parcourir.
 
@@ -79,6 +81,10 @@ Documentation FHS ubuntu: **[Linux Filesystem Tree Overview](https://help.ubuntu
 Commandes dans un terminal linux: **[Commandes de base](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base)** <br>
 Top des 50 commandes Linux: **[Top 50+ Linux Commands You MUST Know](https://www.digitalocean.com/community/tutorials/linux-commands)** <br>
 Les commandes Linux pour débutants: **[The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)**
+
+## Editeur de texte VI en console linux
+Commandes de base VI: **[Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)** <br>
+Utilisation de l'éditeur vi: **[Apprendre à utiliser VI](https://docs.oracle.com/cd/E19620-01/805-1608/6j1io9lha/index.html)** <br>
 
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
