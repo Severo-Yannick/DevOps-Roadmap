@@ -75,12 +75,10 @@ Explication rapide en vidéo: **[Linux Directories Explained in 100 Seconds](htt
 Documentation FHS redhat: **[File System Hierarchy Standard (FHS)](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr)** <br>
 Documentation FHS ubuntu: **[Linux Filesystem Tree Overview](https://help.ubuntu.com/community/LinuxFilesystemTreeOverview)**
 
-<!-- ## Commandes de base sur ubuntu
-
-`id` est utilisée pour afficher les informations d'identité de l'utilisateur actuel. Elle fournit des détails sur les identifiants de l'utilisateur (UID), le groupe principal (GID), et les groupes auxquels l'utilisateur appartient.
-
-`sudo -i` : Ouvre un nouveau shell avec les privilèges root. On est invité à entrer notre mot de passe utilisateur pour confirmer l'action.
-Une fois dans ce shell, on peutexécuter des commandes avec les privilèges de ``root`` sans avoir à préfixer chaque commande avec sudo. -->
+## Les commandes en console linux
+Commandes dans un terminal linux: **[Commandes de base](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base)** <br>
+Top des 50 commandes Linux: **[Top 50+ Linux Commands You MUST Know](https://www.digitalocean.com/community/tutorials/linux-commands)** <br>
+Les commandes Linux pour débutants: **[The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)**
 
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
