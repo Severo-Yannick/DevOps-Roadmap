@@ -80,12 +80,12 @@ Explication rapide en vidéo: **[Linux Directories Explained in 100 Seconds](htt
 Documentation FHS redhat: **[File System Hierarchy Standard (FHS)](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr)** <br>
 Documentation FHS ubuntu: **[Linux Filesystem Tree Overview](https://help.ubuntu.com/community/LinuxFilesystemTreeOverview)**
 
-## Les commandes en console linux
+## Les commandes
 Commandes dans un terminal linux: **[Commandes de base](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base)** <br>
 Top des 50 commandes Linux: **[Top 50+ Linux Commands You MUST Know](https://www.digitalocean.com/community/tutorials/linux-commands)** <br>
 Les commandes Linux pour débutants: **[The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)**
 
-## Editeur de texte VI en console linux
+## Editeur de texte VI
 Commandes de base VI: **[Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)** <br>
 Utilisation de l'éditeur vi: **[Apprendre à utiliser VI](https://docs.oracle.com/cd/E19620-01/805-1608/6j1io9lha/index.html)** <br>
 
@@ -93,6 +93,10 @@ Utilisation de l'éditeur vi: **[Apprendre à utiliser VI](https://docs.oracle.c
 Debian: **[Permissions du système de fichiers](https://www.debian.org/doc/manuals/debian-reference/ch01.fr.html#_filesystem_permissions)** <br>
 Wikipedia: **[Permissions UNIX](https://fr.wikipedia.org/wiki/Permissions_UNIX)** <br>
 Oracle: **[Droits d'accès aux fichiers et aux répertoires](https://docs.oracle.com/cd/E19620-01/805-1608/6j1io9lh0/index.html)** <br>
+
+## Partitions et gestion des disques
+Ubuntu-fr: **[Disques, partitions et systèmes de fichiers](https://doc.ubuntu-fr.org/partitions)** <br>
+François Goffinet: **[Disques sous Linux](https://linux.goffinet.org/administration/disques-et-stockage-lvm/disques-linux/)** <br>
 
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
