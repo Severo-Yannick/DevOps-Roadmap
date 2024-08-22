@@ -98,6 +98,10 @@ Oracle: **[Droits d'accès aux fichiers et aux répertoires](https://docs.oracle
 Ubuntu-fr: **[Disques, partitions et systèmes de fichiers](https://doc.ubuntu-fr.org/partitions)** <br>
 François Goffinet: **[Disques sous Linux](https://linux.goffinet.org/administration/disques-et-stockage-lvm/disques-linux/)** <br>
 
+## La gestion des utilisateurs
+Univ-rennes1: **[Comptes et protection des fichiers](https://perso.univ-rennes1.fr/pierre.nerzic/SYS1A/Amphi%20SYS%202015%20partie%2012%20:%20Utilisateurs.pdf)** <br>
+Formatux: **[La gestion des utilisateurs](https://www.formatux.fr/formatux-fondamentaux/module-030-utilisateurs/index.html)** <br>
+
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
 
