@@ -58,7 +58,7 @@ Voici une brève explication pour la configurer :
      ssh user@ip_address
      ```
 
-# Linux 🐧
+# 1 - Linux 🐧
 
 ## Tuto Linux complet
 Drane académie de Lyon - Cédric Frayssinet :**[Tuto Gnu / Linux - Ubuntu ](https://drane.ac-lyon.fr/spip/IMG/scenari/ubuntuavance/co/Module_Avance.html)** <br>
@@ -113,6 +113,8 @@ Ubuntu-fr: **[Installation du serveur SSH](https://doc.ubuntu-fr.org/ssh#install
 Ubuntu-fr: **[Utilisation du serveur SSH](https://doc.ubuntu-fr.org/ssh#installation_du_serveur_ssh)** <br>
 MobaXterm: **[Interface graphique qui facilite l'accès aux serveurs et systèmes à distance](https://mobaxterm.mobatek.net/download.html)** <br>
 
+## Installer un serveur web
+Ubuntu-fr: **[Serveur web - LAMP](https://doc.ubuntu-fr.org/lamp)** <br>
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
 
