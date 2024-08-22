@@ -102,6 +102,12 @@ François Goffinet: **[Disques sous Linux](https://linux.goffinet.org/administra
 Univ-rennes1: **[Comptes et protection des fichiers](https://perso.univ-rennes1.fr/pierre.nerzic/SYS1A/Amphi%20SYS%202015%20partie%2012%20:%20Utilisateurs.pdf)** <br>
 Formatux: **[La gestion des utilisateurs](https://www.formatux.fr/formatux-fondamentaux/module-030-utilisateurs/index.html)** <br>
 
+## La gestion des paquets
+Ubuntu-fr: **[Gestionnaire de paquets](https://doc.ubuntu-fr.org/gestionnaire_de_paquets#gestionnaire_de_paquets)** <br>
+Ubuntu-fr: **[Le fichier « sources.list »](https://doc.ubuntu-fr.org/sources.list)** <br>
+Ubuntu packages: **[Recherche de paquets Ubuntu](https://packages.ubuntu.com/)** <br>
+Ubuntu-fr: **[Comment installer un paquet ?](https://doc.ubuntu-fr.org/tutoriel/comment_installer_un_paquet)** <br>
+
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
 
