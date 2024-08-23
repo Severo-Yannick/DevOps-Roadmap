@@ -108,10 +108,17 @@ Ubuntu-fr: **[Le fichier « sources.list »](https://doc.ubuntu-fr.org/sources.l
 Ubuntu packages: **[Recherche de paquets Ubuntu](https://packages.ubuntu.com/)** <br>
 Ubuntu-fr: **[Comment installer un paquet ?](https://doc.ubuntu-fr.org/tutoriel/comment_installer_un_paquet)** <br>
 
+## Interface graphique
+MobaXterm: **[Interface graphique qui facilite l'accès aux serveurs et systèmes à distance](https://mobaxterm.mobatek.net/download.html)** <br>
+
 ## Serveur SSH
 Ubuntu-fr: **[Installation du serveur SSH](https://doc.ubuntu-fr.org/ssh#installation_du_serveur_ssh)** <br>
 Ubuntu-fr: **[Utilisation du serveur SSH](https://doc.ubuntu-fr.org/ssh#installation_du_serveur_ssh)** <br>
-MobaXterm: **[Interface graphique qui facilite l'accès aux serveurs et systèmes à distance](https://mobaxterm.mobatek.net/download.html)** <br>
+DigitalOcean (SSH File Transfer Protocol): **[SFTP pour transférer des fichiers en toute sécurité avec un serveur distant](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server-fr)** <br>
+IT-Connect: **[Tunneling SSH](https://www.it-connect.fr/chapitres/tunneling-ssh/)** <br>
+DigitalOcean: **[Set Up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04)** <br>
+Ubuntu: **[Configure SSH to use two-factor authentication](https://www.it-connect.fr/chapitres/tunneling-ssh/)** <br>
+
 
 ## Installer un serveur web
 Ubuntu-fr: **[Serveur web - LAMP](https://doc.ubuntu-fr.org/lamp)** <br>
