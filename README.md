@@ -62,6 +62,7 @@ Voici une brève explication pour la configurer :
 
 ## Tuto Linux complet
 Drane académie de Lyon - Cédric Frayssinet :**[Tuto Gnu / Linux - Ubuntu ](https://drane.ac-lyon.fr/spip/IMG/scenari/ubuntuavance/co/Module_Avance.html)** <br>
+François Goffinet :**[Administration système ](https://linux.goffinet.org/administration/)** <br>
 
 ## Hiérarchie des répertoires
 La structure des répertoires d'un système Linux, également connue sous le nom de Filesystem Hierarchy Standard (FHS), est une structure arborescente définie qui permet d'éviter que les fichiers ne soient dispersés dans tout le système et de les organiser de manière logique et facile à parcourir.
@@ -122,6 +123,10 @@ Ubuntu: **[Configure SSH to use two-factor authentication](https://www.it-connec
 
 ## Installer un serveur web
 Ubuntu-fr: **[Serveur web - LAMP](https://doc.ubuntu-fr.org/lamp)** <br>
+
+## Processus
+François Goffinet: **[Processus Linux](https://linux.goffinet.org/administration/processus-et-demarrage/processus-linux/)** <br>
+Ubuntu-fr: **[Questions fréquemment posées - FAQ](https://doc.ubuntu-fr.org/faq_process)** <br>
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
 
