@@ -134,6 +134,13 @@ Ubuntu-fr: **[Systemd est le gestionnaire de système](https://doc.ubuntu-fr.org
 ## Cron
 Ubuntu-fr: **[Programmer des tâches avec CRON](https://doc.ubuntu-fr.org/cron)** <br>
 
+## Le réseau
+Ubuntu: **[Configuring networks](https://ubuntu.com/server/docs/configuring-networks)** <br>
+Malekal: **[10 commandes “IP”](https://www.malekal.com/commandes-ip-utiles-pour-configurer-les-interfaces-reseau-sur-linux/)** <br>
+Ubuntu-fr: **[FAQ reseau](https://doc.ubuntu-fr.org/faq_reseau)** <br>
+Malekal: **[Comment Utiliser la Commande Ping de Linux](https://www.malekal.com/commandes-ip-utiles-pour-configurer-les-interfaces-reseau-sur-linux/)** <br>
+how2shout: **[How To Use traceroute Command in Linux](https://linux.how2shout.com/how-to-use-traceroute-command-in-linux-such-as-ubuntu/)** <br>
+Ubuntu-fr: **[Bannir des IP avec fail2ban](https://doc.ubuntu-fr.org/fail2ban)** <br>
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
 
