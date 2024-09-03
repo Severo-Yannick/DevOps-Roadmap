@@ -131,6 +131,9 @@ Ubuntu-fr: **[Questions fréquemment posées - FAQ](https://doc.ubuntu-fr.org/fa
 ## Systemd
 Ubuntu-fr: **[Systemd est le gestionnaire de système](https://doc.ubuntu-fr.org/systemd)** <br>
 
+## Cron
+Ubuntu-fr: **[Programmer des tâches avec CRON](https://doc.ubuntu-fr.org/cron)** <br>
+
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
 
