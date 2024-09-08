@@ -1,4 +1,4 @@
-# DevOps Roadmap 2024 : De Développeur Front-End à DevOps
+# DevOps Roadmap 2024
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Je suis développeur front-end, je souhaite élargir mes compétences en me form
 
 Fournir une feuille de route structurée pour les développeurs qui souhaitent se lancer dans le DevOps. Je vais y rassembler des ressources, des outils, des bonnes pratiques, et des guides étape par étape pour faciliter cette transition.
 
-# Environnement de Travail
+## Environnement de Travail
 
 Vous avez deux options principales en fonction de votre configuration actuelle :
 
@@ -18,7 +18,7 @@ Vous avez deux options principales en fonction de votre configuration actuelle :
 2. **Utiliser un VPS et se Connecter via SSH**  
    Personnellement, j'utiliserai un VPS (Virtual Private Server) chez Oracle Cloud, auquel je me connecterai via SSH. Cette méthode permet de travailler directement sur un serveur distant, ce qui est souvent la configuration préférée dans le monde DevOps.
 
-## Configuration d'une Machine Virtuelle (VM)
+### Configuration d'une Machine Virtuelle (VM)
 
 Voici une brève explication pour la configurer :
 
@@ -141,6 +141,12 @@ Ubuntu-fr: **[FAQ reseau](https://doc.ubuntu-fr.org/faq_reseau)** <br>
 Malekal: **[Comment Utiliser la Commande Ping de Linux](https://www.malekal.com/commandes-ip-utiles-pour-configurer-les-interfaces-reseau-sur-linux/)** <br>
 how2shout: **[How To Use traceroute Command in Linux](https://linux.how2shout.com/how-to-use-traceroute-command-in-linux-such-as-ubuntu/)** <br>
 Ubuntu-fr: **[Bannir des IP avec fail2ban](https://doc.ubuntu-fr.org/fail2ban)** <br>
+
+## Le scripting
+Ubuntu-fr: **[Introduction aux scripts shell](https://doc.ubuntu-fr.org/tutoriel/script_shell)** <br>
+RehanSaeed: **[Bash-Cheat-Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/tree/main)** <br>
+Oit: **[Linux Bash Shell Cheat Sheet](https://oit.ua.edu/wp-content/uploads/2020/12/Linux_bash_cheat_sheet-1.pdf)** <br>
+
 <!-- ## Structure du Dépôt
 Vue d'ensemble de la Feuille de Route :
 
