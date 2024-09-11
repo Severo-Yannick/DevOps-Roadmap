@@ -58,7 +58,7 @@ Voici une brève explication pour la configurer :
      ssh user@ip_address
      ```
 
-# 1 - [Linux roadmap](./Linux/LINUX.md) 🐧
+# 1 - [Linux](./Linux/LINUX.md) 🐧
 
 <!-- Suite...
 
