@@ -3,7 +3,7 @@
 ## Conteneurisation avec Docker
 
 ### 2.1 - Introduction à la conteneurisation<br>
-La différence entre une architecture monolithique et une architecture de microservices:
+La différence entre une **architecture monolithique** et une **architecture de microservices**:
 
 Une architecture monolithique est un modèle de développement logiciel traditionnel qui utilise une base de code unique pour exécuter plusieurs fonctions métier. Tous les composants logiciels d'un système monolithique sont interdépendants en raison des mécanismes d'échange de données au sein du système. La modification d'une architecture monolithique est contraignante et prend du temps, car de petites modifications ont un impact sur des pans entiers de la base de code. 
 
@@ -17,7 +17,6 @@ Une architecture monolithique est un modèle de développement logiciel traditio
 
 Un lab pour s'entrainer:
 - **[Labs play with docker](https://labs.play-with-docker.com/)**<br>
-
 
 Installation de Docker sur une machine locale:
 - **[Install Docker Desktop on Linux](https://docs.docker.com/desktop/install/linux-install/)**<br>
@@ -43,7 +42,20 @@ L'installation de Docker sur une plateforme **PaaS** (Platform as a Service) var
 
 - **Microsoft Azure** : Azure Kubernetes Service (AKS) permet de déployer des conteneurs Docker dans un environnement Kubernetes managé, utiliser Azure App Service pour exécuter directement des conteneurs Docker.
 
-2.3 - Gestion des images<br>
+### 2.3 - Gestion des images<br>
+Docker workflow:<br>
+<img src="./images/docker-workflow.jpg" alt="docker workflow" width="800"/><br>
+
+Anatomie d'une image Docker:<br>
+<img src="./images/docker-image-layers.jpg" alt="Anatomie d'une image Docker" width="800"/><br>
+
+Dockerfile qui contient les instructions pour créer une image Docker d'une application Node.js basée sur Alpine<br>
+**[Lien du repository Docker](https://github.com/docker/welcome-to-docker/blob/main/Dockerfile)**<br>
+<img src="./images/dockerfile.png" alt="dockerfile" width="800"/><br>
+
+Documentation officielle Docker pour créer un Dockerfile:<br>
+**[Writing a Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/writing-a-dockerfile/)**<br>
+
 2.4 - Gestion des réseaux<br>
 2.5 - Gestion des stockage<br>
 2.6 - Introduction à l'IAC<br>
