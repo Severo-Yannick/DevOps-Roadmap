@@ -57,7 +57,12 @@ Documentation officielle Docker pour créer un Dockerfile:<br>
 **[Writing a Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/writing-a-dockerfile/)**<br>
 
 Développement d'une application Web Python de base avec docker-compose:<br>
-**[Docker Compose Quickstart](https://docs.docker.com/compose/gettingstarted/)**<br>
+**[Docker Compose Quickstart](https://overcast.blog/build-push-the-docker-image-to-docker-hub-using-github-actions-74f20d47c483)**<br>
+
+Automatiser une mise à jour d'une image docker depuis github vers dockerhub:<br>
+**[Build & Push the Docker image to Docker Hub using GitHub Actions](https://docs.docker.com/compose/gettingstarted/)**<br>
+<img src="./images/github-workflow.webp" alt="github workflow" width="800"/><br>
+
 
 2.4 - Gestion des réseaux<br>
 2.5 - Gestion des stockage<br>
