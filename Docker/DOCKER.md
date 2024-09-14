@@ -56,6 +56,9 @@ Dockerfile qui contient les instructions pour créer une image Docker d'une appl
 Documentation officielle Docker pour créer un Dockerfile:<br>
 **[Writing a Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/writing-a-dockerfile/)**<br>
 
+Développement d'une application Web Python de base avec docker-compose:<br>
+**[Docker Compose Quickstart](https://docs.docker.com/compose/gettingstarted/)**<br>
+
 2.4 - Gestion des réseaux<br>
 2.5 - Gestion des stockage<br>
 2.6 - Introduction à l'IAC<br>
