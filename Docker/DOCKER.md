@@ -64,7 +64,12 @@ Automatiser une mise à jour d'une image docker depuis github vers dockerhub:<br
 <img src="./images/github-workflow.webp" alt="github workflow" width="800"/><br>
 
 
-2.4 - Gestion des réseaux<br>
+### 2.4 - Gestion des réseaux<br>
+Docker network:<br>
+**[Manage networks. You can use subcommands to create, inspect, list, remove, prune, connect, and disconnect networks](https://docs.docker.com/reference/cli/docker/network/)**<br>
+<img src="./images/networking-docker.jpg" alt="networking docker" width="800"/><br>
+
+
 2.5 - Gestion des stockage<br>
 2.6 - Introduction à l'IAC<br>
 2.7 - Introduction à l'orchestration avec Swarm<br>
