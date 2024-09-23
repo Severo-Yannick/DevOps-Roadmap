@@ -70,7 +70,11 @@ Docker network:<br>
 <img src="./images/networking-docker.jpg" alt="networking docker" width="800"/><br>
 
 
-2.5 - Gestion des stockage<br>
+2.5 - Gestion du stockage<br>
+Docker storage:<br>
+**[Storage - volumes, bind mounts, and tmpfs](https://docs.docker.com/engine/storage/)**<br>
+<img src="./images/types-of-mounts-volume.png" alt="types of mounts volume docker" width="800"/><br>
+
 2.6 - Introduction à l'IAC<br>
 2.7 - Introduction à l'orchestration avec Swarm<br>
 2.8 - Mise en place d'un Registre Privé<br>
