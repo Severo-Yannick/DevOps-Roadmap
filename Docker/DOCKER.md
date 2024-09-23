@@ -82,8 +82,12 @@ Infrastructure as code Timeline<br>
 <img src="./images/docker-compose-file.png" alt="docker compose file" width="800"/><br>
 Convertir un *dockerfile* en *docker-compose*: **[composerize](https://www.composerize.com/)**<br>
 
-
 ### 2.8 - Introduction à l'orchestration avec Swarm<br>
+**[Docker Swarm pour l’orchestration des conteneurs](https://geekflare.com/fr/docker-swarm/)**<br>
+<img src="./images/docker-swarm.png" alt="docker compose file" width="800"/><br>
+
+
+
 ### 2.9 - Mise en place d'un Registre Privé<br>
 ### 2.10 - Build Multistage<br>
 ### 2.11 - Sécurité des images Docker<br>
