@@ -69,16 +69,23 @@ Docker network:<br>
 **[Manage networks. You can use subcommands to create, inspect, list, remove, prune, connect, and disconnect networks](https://docs.docker.com/reference/cli/docker/network/)**<br>
 <img src="./images/networking-docker.jpg" alt="networking docker" width="800"/><br>
 
-
-2.5 - Gestion du stockage<br>
+### 2.5 - Gestion du stockage<br>
 Docker storage:<br>
 **[Storage - volumes, bind mounts, and tmpfs](https://docs.docker.com/engine/storage/)**<br>
 <img src="./images/types-of-mounts-volume.png" alt="types of mounts volume docker" width="800"/><br>
 
-2.6 - Introduction à l'IAC<br>
-2.7 - Introduction à l'orchestration avec Swarm<br>
-2.8 - Mise en place d'un Registre Privé<br>
-2.9 - Build Multistage<br>
-2.10 - Sécurité des images Docker<br>
-2.11 - Docker dans le Cloud<br>
-2.12 - Mini projet<br>
+### 2.6 - Introduction à l'IAC<br>
+Infrastructure as code Timeline<br>
+<img src="./images/infrastructure-as-code-timeline.png" alt="Infrastructure as code Timeline" width="800"/><br>
+
+### 2.7 Docker compose:<br>
+<img src="./images/docker-compose-file.png" alt="docker compose file" width="800"/><br>
+Convertir un *dockerfile* en *docker-compose*: **[composerize](https://www.composerize.com/)**<br>
+
+
+### 2.8 - Introduction à l'orchestration avec Swarm<br>
+### 2.9 - Mise en place d'un Registre Privé<br>
+### 2.10 - Build Multistage<br>
+### 2.11 - Sécurité des images Docker<br>
+### 2.12 - Docker dans le Cloud<br>
+### 2.13 - Mini projet<br>
