@@ -86,9 +86,12 @@ Convertir un *dockerfile* en *docker-compose*: **[composerize](https://www.compo
 **[Docker Swarm pour l’orchestration des conteneurs](https://geekflare.com/fr/docker-swarm/)**<br>
 <img src="./images/docker-swarm.png" alt="docker compose file" width="800"/><br>
 
-
-
 ### 2.9 - Mise en place d'un Registre Privé<br>
+**[Local registry](https://hub.docker.com/_/registry)**<br>
+**[joxit/docker-registry-ui](https://hub.docker.com/r/joxit/docker-registry-ui)**<br>
+**[Docker : Déployer un registre privé sécurisé](https://le-guide-du-secops.fr/2022/01/13/docker-deployer-un-registre-local-debian-ubuntu/)**<br>
+<img src="./images/docker-registry.png" alt="docker registry" width="800"/><br>
+
 ### 2.10 - Build Multistage<br>
 ### 2.11 - Sécurité des images Docker<br>
 ### 2.12 - Docker dans le Cloud<br>
