@@ -93,6 +93,9 @@ Convertir un *dockerfile* en *docker-compose*: **[composerize](https://www.compo
 <img src="./images/docker-registry.png" alt="docker registry" width="800"/><br>
 
 ### 2.10 - Build Multistage<br>
+**[Multi-stage builds](https://docs.docker.com/build/building/multi-stage/)**<br>
+<img src="./images/build-multistage.png" alt="build multistage" width="800"/><br>
+
 ### 2.11 - Sécurité des images Docker<br>
 ### 2.12 - Docker dans le Cloud<br>
 ### 2.13 - Mini projet<br>
