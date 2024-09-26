@@ -78,7 +78,7 @@ Docker storage:<br>
 Infrastructure as code Timeline<br>
 <img src="./images/infrastructure-as-code-timeline.png" alt="Infrastructure as code Timeline" width="800"/><br>
 
-### 2.7 Docker compose:<br>
+### 2.7 - Docker compose:<br>
 <img src="./images/docker-compose-file.png" alt="docker compose file" width="800"/><br>
 Convertir un *dockerfile* en *docker-compose*: **[composerize](https://www.composerize.com/)**<br>
 
@@ -97,5 +97,9 @@ Convertir un *dockerfile* en *docker-compose*: **[composerize](https://www.compo
 <img src="./images/build-multistage.png" alt="build multistage" width="800"/><br>
 
 ### 2.11 - Sécurité des images Docker<br>
+**[Snyk Documentation](https://docs.snyk.io/)**<br>
+**[Snyk Docker images](https://hub.docker.com/r/snyk/snyk)**<br>
+<img src="./images/illustration-full-Docker-and-Snyk.svg" alt="illustration full Docker and Snyk" width="800"/><br>
+
 ### 2.12 - Docker dans le Cloud<br>
 ### 2.13 - Mini projet<br>
