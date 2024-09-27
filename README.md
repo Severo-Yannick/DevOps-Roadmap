@@ -60,22 +60,9 @@ Voici une brève explication pour la configurer :
 
 # 1 - [Linux](./Linux/LINUX.md) 🐧
 
+# 2 - [Conteneurisation avec Docker](./Docker/DOCKER.md) 🐋
+
 <!-- Suite...
-
-## 2 - Conteneurisation avec Docker 🐋
-2.1 - Introduction à la conteneurisation<br>
-2.2 - Installation de Docker<br>
-2.3 - Gestion des images<br>
-2.4 - Gestion des réseaux<br>
-2.5 - Gestion des stockage<br>
-2.6 - Introduction à l'IAC<br>
-2.7 - Introduction à l'orchestration avec Swarm<br>
-2.8 - Mise en place d'un Registre Privé<br>
-2.9 - Build Multistage<br>
-2.10 - Sécurité des images Docker<br>
-2.11 - Docker dans le Cloud<br>
-2.12 - Mini projet<br>
-
 ## 3 - Gestion de Configuration (Ansible)
 
 ## 4 - Cloud (AWS)

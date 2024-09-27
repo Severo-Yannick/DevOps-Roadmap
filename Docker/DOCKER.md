@@ -101,5 +101,4 @@ Convertir un *dockerfile* en *docker-compose*: **[composerize](https://www.compo
 **[Snyk Docker images](https://hub.docker.com/r/snyk/snyk)**<br>
 <img src="./images/illustration-full-Docker-and-Snyk.svg" alt="illustration full Docker and Snyk" width="800"/><br>
 
-### 2.12 - Docker dans le Cloud<br>
-### 2.13 - Mini projet<br>
+<!-- ### 2.12 - Docker dans le Cloud<br> -->
